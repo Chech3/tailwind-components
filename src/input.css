@@ -1,0 +1,6 @@
+@import url(../public/buttons/button.css);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
